@@ -1,0 +1,12 @@
+*{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+
+thead{
+    background-color: rgba(12, 194, 12, 0.726);
+}
+td{
+    border: 1px solid;
+}
